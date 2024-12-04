@@ -11,3 +11,5 @@ Run as a cron job or scheduled task to ensure full-time recording. For Windows, 
 
 ### Requirements
 pip3 install opencv-python
+
+Before running, update the script with your camera IP address. Ensure that the camera is bound to a specific IP on your LAN. For help finding your camera IP address, open the camera settings in the Green Feathers app and click 'Onvif'.
