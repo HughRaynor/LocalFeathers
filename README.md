@@ -1,5 +1,5 @@
 # LocalFeathers
-A simple RSTP 24/7 local recording implementation, designed with Green Feathers Bird Box Cameras in mind.
+A simple RTSP 24/7 local recording implementation, designed with Green Feathers Bird Box Cameras in mind.
 
 By default, the Green Feathers application and Cloud service will only record event data to your device. This is useful for capturing motion events, but isn't suitable for long timelapses of the nesting process.
 
